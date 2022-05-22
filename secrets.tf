@@ -1,7 +1,7 @@
 variable "access_key" {
-    default = "your_key"
+    default = "access_key"
 }
 
 variable "secret_key" {
-    default = "your_secret_key"
+    default = "secret_key"
 }
