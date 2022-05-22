@@ -8,7 +8,7 @@ Download: https://www.terraform.io/downloads.html
 Official Docs: https://www.terraform.io/
 
 ## Marketaux
-  - Link => https://www.marketaux.com/
+- Link => https://www.marketaux.com/
 
 ## Required Secrets
 - client.py requires API_TOKEN to be set locally before running from terminal
